@@ -2,7 +2,7 @@
 天眼查爬虫API，一行代码将目标企业的工商信息分门别类地保存为Excel文件。
 
 ## 运行环境
-[Jupyter Notebook](http://jupyter.org/)，建议使用[Anaconda](https://anaconda.org/)下载安装运行环境。
+[Jupyter Notebook](http://jupyter.org/)，建议使用[Anaconda](https://www.anaconda.com/download/)下载安装运行环境。
 
 ## 使用方法
 1. 下载仓库到本地
